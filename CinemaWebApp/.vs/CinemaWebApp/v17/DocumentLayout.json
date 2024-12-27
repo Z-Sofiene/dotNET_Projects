@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\Microservices\\CinemaWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81407025-A0BA-4D37-9965-3850BB14BAB5}|CinemaWebApp\\CinemaWebApp.csproj|e:\\sof\\sofiene\\3gl\\dotnet\\projects\\microservices\\cinemawebapp\\cinemawebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81407025-A0BA-4D37-9965-3850BB14BAB5}|CinemaWebApp\\CinemaWebApp.csproj|solutionrelative:cinemawebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81407025-A0BA-4D37-9965-3850BB14BAB5}|CinemaWebApp\\CinemaWebApp.csproj|e:\\sof\\sofiene\\3gl\\dotnet\\projects\\microservices\\cinemawebapp\\cinemawebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81407025-A0BA-4D37-9965-3850BB14BAB5}|CinemaWebApp\\CinemaWebApp.csproj|solutionrelative:cinemawebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81407025-A0BA-4D37-9965-3850BB14BAB5}|CinemaWebApp\\CinemaWebApp.csproj|e:\\sof\\sofiene\\3gl\\dotnet\\projects\\microservices\\cinemawebapp\\cinemawebapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81407025-A0BA-4D37-9965-3850BB14BAB5}|CinemaWebApp\\CinemaWebApp.csproj|solutionrelative:cinemawebapp\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\Microservices\\CinemaWebApp\\CinemaWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CinemaWebApp\\appsettings.json",
+              "ToolTip": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\Microservices\\CinemaWebApp\\CinemaWebApp\\appsettings.json",
+              "RelativeToolTip": "CinemaWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T07:40:39.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\Microservices\\CinemaWebApp\\CinemaWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "CinemaWebApp\\Program.cs",
+              "ToolTip": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\Microservices\\CinemaWebApp\\CinemaWebApp\\Program.cs",
+              "RelativeToolTip": "CinemaWebApp\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:54:40.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\Microservices\\CinemaWebApp\\CinemaWebApp\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "CinemaWebApp\\Controllers\\MoviesController.cs",
+              "ToolTip": "E:\\Sof\\Sofiene\\3GL\\dotNET\\projects\\Microservices\\CinemaWebApp\\CinemaWebApp\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "CinemaWebApp\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAGsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:55:20.511Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2mz2JHl1r6gCqQZuSeqPJkofQkhGdQEDdGMm1cU65XM=",
+  "Source": "JWTdotNet",
+  "BasePath": "_content/JWTdotNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
